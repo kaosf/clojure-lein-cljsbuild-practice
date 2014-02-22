@@ -10,6 +10,13 @@ lein cljsbuild once
 
 `war/javascripts/main.js` is generated.
 
+If you have installed Node.js, you can run;
+
+```sh
+node war/javascripts/main
+#=> Hello from ClojureScript!
+```
+
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)

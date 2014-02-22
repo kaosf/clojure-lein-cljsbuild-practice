@@ -1,3 +1,3 @@
 (ns example.main)
 
-(js/alert "Hello from ClojureScript!")
+(.log js/console "Hello from ClojureScript!")
