@@ -4,11 +4,14 @@ A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
 
-FIXME
+```sh
+lein cljsbuild once
+```
+
+`war/javascripts/main.js` is generated. It has over 20k lines... What's happened?
 
 ## License
 
-Copyright © 2014 FIXME
+[MIT](http://opensource.org/licenses/MIT)
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Copyright 2014 ka
