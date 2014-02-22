@@ -8,7 +8,7 @@ A Clojure library designed to ... well, that part is up to you.
 lein cljsbuild once
 ```
 
-`war/javascripts/main.js` is generated. It has over 20k lines... What's happened?
+`war/javascripts/main.js` is generated.
 
 ## License
 

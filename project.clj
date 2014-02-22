@@ -14,5 +14,5 @@
       ; (See the ClojureScript compiler documentation for details.)
       :compiler {
         :output-to "war/javascripts/main.js"  ; default: target/cljsbuild-main.js
-        :optimizations :whitespace
+        :optimizations :advanced
         :pretty-print true}}]})
